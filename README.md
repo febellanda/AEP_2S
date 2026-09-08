@@ -1,2 +1,1 @@
-# AEP_2S
-Repositório dedicado ao trabalho semestral do curso de Engenharia de Software
+![Banner](https://raw.githubusercontent.com/DaviEmmanuel07/AEP_2S/main/banner-aep2s.svg)
