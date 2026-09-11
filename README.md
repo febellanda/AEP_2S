@@ -3,9 +3,7 @@ repositório dedicado ao trabalho semestral do curso a Engenharia de Software
 
 ## 👥 Integrantes do Grupo
 * **Davi Emmanuel Silva e Camargo Silva** - RA: *[26001562-2]*
-
 * **Felipe Rodrigues Bellanda** - RA: *[RA do Felipe]*
-* 
 * *[Nome do Integrante 3]* - RA: *[RA]*
 ---
 
