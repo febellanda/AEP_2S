@@ -1,10 +1,11 @@
 <h1 style="font-size: 60px;">AEP_2S</h1>  
 repositório dedicado ao trabalho semestral do curso a Engenharia de Software
 ## 👥 Integrantes do Grupo
-* **Davi Emmanuel Silva e Camargo Silva** - RA: *[Seu RA]*
+* **Davi Emmanuel Silva e Camargo Silva** - RA: *[26001562-2]*
+
 * **Felipe Rodrigues Bellanda** - RA: *[RA do Felipe]*
+* 
 * *[Nome do Integrante 3]* - RA: *[RA]*
-* *[Nome do Integrante 4]* - RA: *[RA]*
 ---
 
 ## 📌 Sobre o Projeto
