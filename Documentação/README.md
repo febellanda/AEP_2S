@@ -12,8 +12,3 @@ Esta pasta contém todos os artefatos de documentação, modelagem e lógica do 
 
 ---
 
-## 📌 Principais Tópicos Documentados
-
-1. **Estrutura de Controle:** Loop principal do menu e encerramento limpo.
-2. **Validações de Dados:** Unicidade de código da ação e quantidade válida de alunos previstos ($\le 0$).
-3. **Escopo PSE:** Atribuição do tema padrão "Vacinação e Verificação de Caderneta".
