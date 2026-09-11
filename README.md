@@ -14,13 +14,12 @@ O sistema tem como objetivo realizar a gestão e o cadastro das ações do **Pro
 ## 📁 Estrutura do Repositório
 
 * `docs/`: Contém a documentação do projeto (Fluxograma Geral em PDF e Pseudocódigo em Texto).
-* `src/`: Contém os códigos-fontes do sistema.
 * `README.md`: Apresentação geral e identificação da equipe.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-* **Linguagem / Ferramenta de Lógica:** Pseudocódigo (Portugol Estruturado) / Linguagem C/C++
+* **Linguagem / Ferramenta de Lógica:** Pseudocódigo (Portugol Estruturado)
 * **Modelagem:** Diagrama de Fluxograma (ANSI/ISO)
 * **Gestão do Projeto:** Trello / GitHub
 
