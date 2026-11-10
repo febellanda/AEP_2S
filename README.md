@@ -21,7 +21,7 @@ O sistema tem como objetivo realizar a gestão e o cadastro das ações do **Pro
 ---
 
 ## Tecnologias e Ferramentas
-* **Linguagem / Ferramenta de Lógica:** Pseudocódigo (Portugol Estruturado)
+* **Linguagem / Ferramenta de Lógica:** Pseudocódigo (Portugol Estruturado) | Linguagem C
 * **Modelagem:** Diagrama de Fluxograma (ANSI/ISO)
 * **Gestão do Projeto:** Trello / GitHub
 
